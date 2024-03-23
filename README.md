@@ -8,8 +8,10 @@ Our software solves the problem by visualizing the historical data presented, in
 
 ### Building software:
 
-* Method 1: Through the drive/collab invite link provided you can directly access the python notebook and execute each code block sequentially.
+* Method 1: Through the drive/collab invite link provided you can directly access the python notebook and execute each code block sequentially. https://colab.research.google.com/drive/1B9tHBH6gX9nUyu4SGoxHe0_9wrac1OTY
 * Method 2: From the public repository link, download the notebook and open it within google collab from the header menu (File -> Open Notebook)
 
 
 _NOTE_: Ensure that you upload the datasets by dragging and dropping the csv datasets in the files pane in the toolbar on the left.
+
+
